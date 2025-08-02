@@ -31,5 +31,6 @@
 ## تماس با من
 
 - ایمیل: m.taghavi.ce@gmail.com
+- - لینکدین: https://www.linkedin.com/in/maryam-taghavi-a0916b201/
 
 ---
