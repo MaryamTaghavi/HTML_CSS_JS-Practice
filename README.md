@@ -1,4 +1,4 @@
-# HTML_CSS_JS-Practice
+# HTML_CSS_JS_Practice
 
 این ریپازیتوری شامل تمرین‌ها و پروژه‌های کوچک من برای یادگیری و تقویت مهارت‌های **HTML**، **CSS** و **JavaScript** است.
 
